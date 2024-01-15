@@ -9,6 +9,7 @@
   background-color: var(--background-color);
   box-sizing: border-box;
   color: var(--text-color);
+  font-family: sans-serif;
   margin: var(--default-margin);
   padding: var(--default-padding);
 }
