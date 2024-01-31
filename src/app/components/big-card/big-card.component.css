@@ -1,6 +1,5 @@
 .container__big-card {
-  border: solid white 2px;
-  max-width: 400px;
+  max-width: 500px;
   max-height: fit-content;
   margin: 0 10px;
   display: flex;
@@ -23,5 +22,5 @@
 
 .big-card__picture > img {
   width: 98%;
-  min-width: 380px;
+  min-width: 480px;
 }
