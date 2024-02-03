@@ -9,7 +9,7 @@ export class SmallCardComponent implements OnInit {
   @Input() cover: string = '';
   @Input() title: string = '';
   @Input() description: string = '';
-
+  @Input() id: string = '0';
   constructor() {}
 
   ngOnInit(): void {}
